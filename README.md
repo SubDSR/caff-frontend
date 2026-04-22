@@ -1,7 +1,7 @@
 
-  # Cafetería POS System Design
+  # Cafetería POS System
 
-  This is a code bundle for Cafetería POS System Design. The original project is available at https://www.figma.com/design/oQRnNDQh8IuV0bZr6GG452/Cafeter%C3%ADa-POS-System-Design.
+  Frontend de Cafetería POS System.
 
   ## Running the code
 
